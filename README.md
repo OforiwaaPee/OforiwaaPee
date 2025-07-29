@@ -3,7 +3,7 @@ I’m **Oforiwaa Pee**, a transport-geography Ph.D. researcher and location-inte
 - 🔭 **Currently working on:**
    Evaluating the impact of Bus Rapid Transit (BRT) systems using spatial econometric methods, and applying location intelligence to inform strategic decisions in urban mobility and retail networks. 
   - A spatial Difference-in-Differences study measuring how Johannesburg’s *Rea Vaya* BRT reshaped travel behaviour  
-  - Location-strategy frameworks that help global brands (Nike) choose the right places to grow
+  - Location intelligence & strategy frameworks that help global brands (Nike) choose the right places to grow
 
 - 🌱 **Learning next:** Advanced spatial econometrics (spatial causal-inference) in Python and GPU-accelerated raster analytics
 
@@ -21,7 +21,7 @@ I’m **Oforiwaa Pee**, a transport-geography Ph.D. researcher and location-inte
   -  Geospatial/location intelligence, transport geography, spatial difference-in-differences (DiD), BRT systems, urban accessibility, and strategic location planning, Mapping Products and Services. 
 
 - 📫 **Reach me at:** <info@oforiwaapee.com>
-   - Check my website [www.oforiwaapee.com] for more about my research and professional work as a scholar practitioner 
+   - Check my website <www.oforiwaapee.com> for more about my research and professional work as a scholar practitioner 
 
 - 😄 **Pronouns:** She/her
 
