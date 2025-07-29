@@ -21,7 +21,7 @@ I’m **Oforiwaa Pee**, a transport-geography Ph.D. researcher and location-inte
   -  Geospatial/location intelligence, transport geography, spatial difference-in-differences (DiD), BRT systems, urban accessibility, and strategic location planning, Mapping Products and Services. 
 
 - 📫 **Reach me at:** <info@oforiwaapee.com>
-   - Check my website <www.oforiwaapee.com> for more about my research and professional work as a scholar practitioner 
+   - Check my website www.oforiwaapee.com for more about my research and professional work as a scholar practitioner 
 
 - 😄 **Pronouns:** She/her
 
