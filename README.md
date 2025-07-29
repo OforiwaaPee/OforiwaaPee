@@ -13,11 +13,12 @@ I’m **Oforiwaa Pee**, a transport-geography Ph.D. researcher and location-inte
   - Location/Geospatial Intelligence, Map products and services for businesses and organisations
   - Open-source geospatial tooling (esp. reproducible workflows & tidy data standards)
 
-- 🤔 **I could use help with:** Efficiently publishing large spatial datasets to the cloud (tip me your favorite stack!)
-  - Visualizing complex spatial data workflows in reproducible ways and publishing impactful open-source geospatial projects.
+- 🤔 **I could use help with:**
+   - Efficiently publishing large spatial datasets to the cloud (tip me your favorite stack!)
+   - Visualizing complex spatial data workflows in reproducible ways and publishing impactful open-source geospatial projects.
 
-- 💬 **Ask me about:** Location intelligence • Transport geography • Spatial econometrics • Workplace real-estate analytics
-  -  Geospatial/location intelligence, transport geography, spatial difference-in-differences (DiD), BRT systems, urban accessibility, and strategic location planning. 
+- 💬 **Ask me about:** Location/Geospatial intelligence • Transport Geography & Planning • Spatial econometrics • Location Strategy
+  -  Geospatial/location intelligence, transport geography, spatial difference-in-differences (DiD), BRT systems, urban accessibility, and strategic location planning, Mapping Products and Services. 
 
 - 📫 **Reach me at:** <info@oforiwaapee.com> [www.oforiwaapee.com]
 
