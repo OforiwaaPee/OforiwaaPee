@@ -1,11 +1,11 @@
-I’m **Oforiwaa Pee**, a transport-geography Ph.D. researcher and location-intelligence practitioner who loves turning messy spatial data into clear, actionable insights usinf spatial causal inference.
+I’m **Oforiwaa Pee**, a transport-geography Ph.D. researcher and location-intelligence practitioner who loves turning messy spatial data into clear, actionable insights usinf spatial-causal inference.
 
 - 🔭 **Currently working on:**
    Evaluating the impact of Bus Rapid Transit (BRT) systems using spatial-causal inference (spatial econometric methods), and applying location intelligence to inform strategic decisions in urban mobility and retail networks. 
   - A spatial Difference-in-Differences study measuring how Johannesburg’s *Rea Vaya* Bus Rapid Transit (BRT) reshaped travel behaviour and the socio-economic impacts on residents  
   - Location intelligence & strategy frameworks that help global brands (Nike) choose the right places to grow
 
-- 🌱 **Learning next:** Advanced spatial econometrics (spatial causal-inference) in Python and GPU-accelerated raster analytics
+- 🌱 **Learning next:** Advanced spatial econometrics (spatial-causal inference) in Python and GPU-accelerated raster analytics
 
 - 👯 **Open to collaborate on:**
   Research or projects involving spatial data analysis, mobility insights, transport policy evaluation, or location strategy.
