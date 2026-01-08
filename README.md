@@ -1,4 +1,4 @@
-I’m **Oforiwaa Pee**, a transport-geography Ph.D. researcher and location-intelligence practitioner who loves turning messy spatial data into clear, actionable insights.
+I’m **Oforiwaa Pee**, a transport-geography Ph.D. researcher and location-intelligence practitioner who loves turning messy spatial data into clear, actionable insights usinf spatial causal inference.
 
 - 🔭 **Currently working on:**
    Evaluating the impact of Bus Rapid Transit (BRT) systems using spatial-causal inference (spatial econometric methods), and applying location intelligence to inform strategic decisions in urban mobility and retail networks. 
